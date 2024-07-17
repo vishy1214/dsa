@@ -1,0 +1,19 @@
+## Prime number : the number is divisible only by itself.
+def is_prime(number):
+    for i in range(2, number):
+        #print(i)
+        if(number % i == 0):
+            return False
+    return True
+
+
+
+if __name__ == '__main__':
+    print("7 =",is_prime(7))
+    print("_______________")
+    print("2 =", is_prime(2))
+    print("_______________")
+    print("3 =", is_prime(3))
+    print("_______________")
+    print("4 =", is_prime(4))
+
