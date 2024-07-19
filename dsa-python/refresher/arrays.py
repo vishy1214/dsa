@@ -8,7 +8,7 @@ arr5 = '1234566'
 charArray = ['a' for j in range(1000)]
 boolArray = [False] * 32786
 
-print(arr[1])1
+print(arr[1])
 print(arr[1])
 
 arr4 = arr + arr3
