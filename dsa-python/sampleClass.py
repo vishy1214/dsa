@@ -50,4 +50,3 @@ class Singleton:
             cls._singletons[cls] = obj = super().__new__(cls)
             obj._initialized = False
         return cls._singletons[cls]
-

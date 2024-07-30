@@ -4,6 +4,7 @@
 import time
 
 source = [120,56,15,8,99,101,111,1]
+source3 = [120,120,120,56,15,8,99,101,111,1,2,4,55,33,44,77,66,99,11,22,53,22,5,7,9,13,19]
 
 def perform_selection_sort(list):
     start = time.perf_counter()
@@ -32,7 +33,7 @@ def perform_selection_sort(list):
     stop = time.perf_counter()
     print(f'processing time : {stop - start:0.6f} seconds')
 
-perform_selection_sort(source)
+perform_selection_sort(source3)
 
 
 
