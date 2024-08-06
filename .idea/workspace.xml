@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01e08996-1699-42cb-8c2f-e0b8aedd3167" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/clothing_labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/convert_f_to_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/intersection_of_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/mean_average_of_even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/palindrome_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/password_cracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/word_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/hashtable/array_subset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/hashtable/find_missing_alphabet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/hashtable/find_non_duplicated_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/hashtable/first_duplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/hashtable/intersection_of_two_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/queues/queue_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/fibonacci_series_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/fibonacci_series_2_dynamicp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/fibonacci_series_3_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/ignore_sum_over_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/max_number_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/print_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/recursion/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/stack/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/stack/stack_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/stack/syntax_linter_check_braces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa-python/common-sense/trie/auto_complete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa-python/linkedlist/queue_using_doubly_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa-python/refresher/alpha_compare.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa-python/common-sense/arrays/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-python/common-sense/arrays/selection_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa-python/sampleClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-python/sampleClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa-python/common-sense/stack/reverse_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-python/common-sense/stack/reverse_string.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,78 +41,80 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MyArrayUsage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array_subset.executor&quot;: &quot;Run&quot;,
-    &quot;Python.array_usage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bubble_sort_nested_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clothing_labels.executor&quot;: &quot;Run&quot;,
-    &quot;Python.contains_duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convert_f_to_c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci_series_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci_series_2_dynamicp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci_series_3_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_greatest_number_O(N).executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_missing_alphabet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_non_duplicated_letter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ignore_sum_over_100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.intersection_of_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.intersection_of_two_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.left_and_right_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max_number_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mean_average_of_even_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multivalued_assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ordered_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome_checker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_cracker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.queue_implementation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.repeated_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse_string (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selection_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syntax_linter_check_braces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.word_builder.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/srishvish/tech-workyard/code/DSA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/srishvish/tech-workyard/code/DSA-j/dsa-java/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.MyArrayUsage.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Python.alpha_compare.executor": "Run",
+    "Python.array.executor": "Run",
+    "Python.array_subset.executor": "Run",
+    "Python.array_usage.executor": "Run",
+    "Python.arrays.executor": "Run",
+    "Python.auto_complete.executor": "Run",
+    "Python.binary_search.executor": "Run",
+    "Python.bubble_sort.executor": "Run",
+    "Python.bubble_sort_nested_loop.executor": "Run",
+    "Python.clothing_labels.executor": "Run",
+    "Python.contains_duplicates.executor": "Run",
+    "Python.convert_f_to_c.executor": "Run",
+    "Python.dict_basics.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.fibonacci_series_1.executor": "Run",
+    "Python.fibonacci_series_2_dynamicp.executor": "Run",
+    "Python.fibonacci_series_3_loop.executor": "Run",
+    "Python.find_greatest_number_O(N).executor": "Run",
+    "Python.find_missing_alphabet.executor": "Run",
+    "Python.find_non_duplicated_letter.executor": "Run",
+    "Python.first_duplicate.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.ignore_sum_over_100.executor": "Run",
+    "Python.intersection_of_arrays.executor": "Run",
+    "Python.intersection_of_two_arrays.executor": "Run",
+    "Python.left_and_right_sum.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.max_number_in_array.executor": "Run",
+    "Python.mean_average_of_even_numbers.executor": "Run",
+    "Python.multivalued_assignment.executor": "Run",
+    "Python.ordered_array.executor": "Run",
+    "Python.palindrome_checker.executor": "Run",
+    "Python.password_cracker.executor": "Run",
+    "Python.print_numbers.executor": "Run",
+    "Python.queue_implementation.executor": "Run",
+    "Python.repeated_strings.executor": "Run",
+    "Python.reverse_string (1).executor": "Run",
+    "Python.reverse_string.executor": "Run",
+    "Python.selection_sort.executor": "Run",
+    "Python.syntax_linter_check_braces.executor": "Run",
+    "Python.word_builder.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/srishvish/tech-workyard/code/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/srishvish/tech-workyard/code/DSA-j/dsa-java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dsa-python/common-sense" />
       <recent name="$PROJECT_DIR$/dsa-python/refresher" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ignore_sum_over_100">
-    <configuration name="fibonacci_series_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.auto_complete">
+    <configuration name="alpha_compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dsa-python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,12 +123,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa-python/refresher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa-python/common-sense/recursion/fibonacci_series_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa-python/refresher/alpha_compare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auto_complete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dsa-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa-python/common-sense/trie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa-python/common-sense/trie/auto_complete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,36 +229,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_number_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dsa-python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dsa-python/common-sense/recursion/max_number_in_array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.auto_complete" />
+        <item itemvalue="Python.alpha_compare" />
         <item itemvalue="Python.ignore_sum_over_100" />
         <item itemvalue="Python.fibonacci_series_3_loop" />
         <item itemvalue="Python.fibonacci_series_2_dynamicp" />
-        <item itemvalue="Python.fibonacci_series_1" />
-        <item itemvalue="Python.max_number_in_array" />
       </list>
     </recent_temporary>
   </component>
@@ -287,11 +267,25 @@
       <workItem from="1721935203767" duration="1061000" />
       <workItem from="1722105794346" duration="4903000" />
       <workItem from="1722264115253" duration="196000" />
+      <workItem from="1722362693429" duration="823000" />
+      <workItem from="1722628228040" duration="2504000" />
+      <workItem from="1722872598116" duration="2274000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -319,8 +313,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA$find_greatest_number_O_N_.coverage" NAME="find_greatest_number_O(N) Coverage Results" MODIFIED="1721354220362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/arrays" />
-    <SUITE FILE_PATH="coverage/DSA$reverse_string__1_.coverage" NAME="reverse_string (1) Coverage Results" MODIFIED="1721968737342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$functions.coverage" NAME="functions Coverage Results" MODIFIED="1709842251408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/refresher" />
+    <SUITE FILE_PATH="coverage/DSA$reverse_string__1_.coverage" NAME="reverse_string (1) Coverage Results" MODIFIED="1721968737342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$queue_implementation.coverage" NAME="queue_implementation Coverage Results" MODIFIED="1721575987863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/queues" />
     <SUITE FILE_PATH="coverage/DSA$max_number_in_array.coverage" NAME="max_number_in_array Coverage Results" MODIFIED="1722107231082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$array_subset.coverage" NAME="array_subset Coverage Results" MODIFIED="1721425677707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/hashtable" />
@@ -340,6 +334,7 @@
     <SUITE FILE_PATH="coverage/DSA$multivalued_assignment.coverage" NAME="multivalued_assignment Coverage Results" MODIFIED="1709842121659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/refresher" />
     <SUITE FILE_PATH="coverage/DSA$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1721577984905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/stack" />
     <SUITE FILE_PATH="coverage/DSA$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1709843196673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/refresher" />
+    <SUITE FILE_PATH="coverage/DSA$alpha_compare.coverage" NAME="alpha_compare Coverage Results" MODIFIED="1722883470756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/refresher" />
     <SUITE FILE_PATH="coverage/DSA$bubble_sort_nested_loop.coverage" NAME="bubble_sort_nested_loop Coverage Results" MODIFIED="1721354226765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/arrays" />
     <SUITE FILE_PATH="coverage/DSA$find_missing_alphabet.coverage" NAME="find_missing_alphabet Coverage Results" MODIFIED="1721440430103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/hashtable" />
     <SUITE FILE_PATH="coverage/DSA$dict_basics.coverage" NAME="dict_basics Coverage Results" MODIFIED="1709932137780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/datastructures/dictionary" />
@@ -350,6 +345,7 @@
     <SUITE FILE_PATH="coverage/DSA$password_cracker.coverage" NAME="password_cracker Coverage Results" MODIFIED="1721419619241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/arrays" />
     <SUITE FILE_PATH="coverage/DSA$fibonacci_series_3_loop.coverage" NAME="fibonacci_series_3_loop Coverage Results" MODIFIED="1722113557799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$word_builder.coverage" NAME="word_builder Coverage Results" MODIFIED="1721355701293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/arrays" />
+    <SUITE FILE_PATH="coverage/DSA$auto_complete.coverage" NAME="auto_complete Coverage Results" MODIFIED="1722903474395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/trie" />
     <SUITE FILE_PATH="coverage/DSA$ignore_sum_over_100.coverage" NAME="ignore_sum_over_100 Coverage Results" MODIFIED="1722113725000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$print_numbers.coverage" NAME="print_numbers Coverage Results" MODIFIED="1721579596501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/recursion" />
     <SUITE FILE_PATH="coverage/DSA$clothing_labels.coverage" NAME="clothing_labels Coverage Results" MODIFIED="1721409936216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dsa-python/common-sense/arrays" />
